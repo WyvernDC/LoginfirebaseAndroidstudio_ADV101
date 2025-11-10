@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login Figma Clone</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="gmail">Gmail</string>
+    <string name="pass">Pass</string>
+    <string name="login">login</string>
+    <string name="create">Create</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register?</string>
+    <string name="hello_world">Hello World</string>
+    <string name="logout">logout</string>
+    <string name="passworddefaultsign">••••</string>
+</resources>

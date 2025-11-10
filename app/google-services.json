@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594270055528",
+    "project_id": "viarup-login-register",
+    "storage_bucket": "viarup-login-register.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594270055528:android:3875a9d9fd799948a19fdd",
+        "android_client_info": {
+          "package_name": "com.example.loginfigmaclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgEXmfV6TJd0Cy50Aqyor6LZ9OFkOVvsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
